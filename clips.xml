@@ -5,19 +5,19 @@
 	<iChannel src="" filter="" />
 	<iChannel src="" filter="" />
 </clip>
-<clip src="splitscreen" start="1704" length="1540" time="0">
+<clip src="splitscreen" start="1704" length="1602" time="0">
 	<iChannel src="sound" filter="" />
 	<iChannel src="" filter="" />
 	<iChannel src="" filter="" />
 	<iChannel src="" filter="" />
 </clip>
-<clip src="intro" start="3244" length="57" time="22.6499996">
+<clip src="intro" start="3306" length="78" time="22.6499996">
 	<iChannel src="sound" filter="" />
 	<iChannel src="" filter="" />
 	<iChannel src="" filter="" />
 	<iChannel src="" filter="" />
 </clip>
-<clip src="intro" start="3301" length="210" time="6.03333378">
+<clip src="intro" start="3384" length="127" time="6.03333378">
 	<iChannel src="sound" filter="" />
 	<iChannel src="" filter="" />
 	<iChannel src="" filter="" />
